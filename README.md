@@ -24,3 +24,19 @@
     
     
     
+# Layout
+
+# Página inicial
+  ![Web1](https://github.com/darlanbbs/E-Commerce-Plant-Shop/blob/main/layoutPlants/HomepagePlants.png)
+
+# Página Contato
+
+ ![Web1](https://github.com/darlanbbs/E-Commerce-Plant-Shop/blob/main/layoutPlants/contact.png)
+
+ # Carrinho de compras
+
+   ![Web1](https://github.com/darlanbbs/E-Commerce-Plant-Shop/blob/main/layoutPlants/cart.png)
+
+  # Página produtos
+
+  ![Web1](https://github.com/darlanbbs/E-Commerce-Plant-Shop/blob/main/layoutPlants/products.png)
